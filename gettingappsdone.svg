@@ -1,37 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.041" height="31.708" viewBox="0 0 24.041 31.708">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="974" viewBox="0 0 1920 974">
   <defs>
     <clipPath id="clip-path">
-      <path id="Path_21" data-name="Path 21" d="M86.122-701.693V-691.6a5.958,5.958,0,0,1-1.927,4.454,6.447,6.447,0,0,1-4.634,1.853,6.447,6.447,0,0,1-4.634-1.853A5.958,5.958,0,0,1,73-691.6v-10.092a5.958,5.958,0,0,1,1.927-4.454A6.448,6.448,0,0,1,79.561-708a6.448,6.448,0,0,1,4.634,1.853A5.958,5.958,0,0,1,86.122-701.693Z" transform="translate(-73 708)" fill="none"/>
+      <path id="Path_21" data-name="Path 21" d="M115.762-687.446v32.886a19.416,19.416,0,0,1-6.281,14.516,21.01,21.01,0,0,1-15.1,6.038,21.01,21.01,0,0,1-15.1-6.038A19.416,19.416,0,0,1,73-654.56v-32.886a19.417,19.417,0,0,1,6.281-14.516A21.012,21.012,0,0,1,94.381-708a21.012,21.012,0,0,1,15.1,6.038A19.417,19.417,0,0,1,115.762-687.446Z" transform="translate(-73 708)" fill="none"/>
     </clipPath>
     <clipPath id="clip-path-2">
-      <path id="Path_20" data-name="Path 20" d="M-440-789.3h62.7V-852H-440Z" transform="translate(440 852)" fill="none"/>
+      <path id="Path_20" data-name="Path 20" d="M-440-647.677h204.323V-852H-440Z" transform="translate(440 852)" fill="none"/>
     </clipPath>
     <clipPath id="clip-path-3">
-      <path id="Path_24" data-name="Path 24" d="M2.75-437H0v1.825A15.927,15.927,0,0,0,2.062-426.6q2.062,3.285,6.691,3.786v3.376H4.331v2.007H15.123v-2.007H10.816v-3.376q4.72-.456,6.783-3.786a16.073,16.073,0,0,0,2.062-8.577V-437h-2.8v1.825h.917v1.141q-.183,9.215-7.951,9.215t-8.043-9.215v-1.141H2.75Z" transform="translate(0 437)" fill="none"/>
+      <path id="Path_24" data-name="Path 24" d="M8.961-437H0v5.947Q0-413.808,6.721-403.1t21.8,12.339v11H14.113v6.541H49.284v-6.541H35.246v-11q15.383-1.487,22.1-12.339t6.721-27.949V-437H54.96v5.947h2.987v3.717q-.6,30.03-25.912,30.031T5.825-427.337v-3.717H8.961Z" transform="translate(0 437)" fill="none"/>
     </clipPath>
     <clipPath id="clip-path-5">
-      <path id="Path_27" data-name="Path 27" d="M36.062-655.728l14.017-12.354L47.468-671l-11.406,9.756-5.451-5.79L28-664.481Z" transform="translate(-28 671)" fill="none"/>
+      <path id="Path_27" data-name="Path 27" d="M54.272-621.233l45.678-40.259L91.442-671l-37.17,31.792L36.509-658.075,28-649.756Z" transform="translate(-28 671)" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Getting_Apps_Done" data-name="Getting Apps Done" transform="translate(263.269 794.161)">
-    <g id="Group_21" data-name="Group 21" transform="translate(-260 -794.161)" clip-path="url(#clip-path)">
-      <g id="Group_20" data-name="Group 20" transform="translate(-22.975 -6.449)" clip-path="url(#clip-path-2)">
-        <path id="Path_19" data-name="Path 19" d="M68-713H81.57v23.154H68Z" transform="translate(-45.249 719.225)" fill="#ed1067"/>
+  <g id="gettingappsdone" transform="translate(0 -2263)">
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="1920" height="974" transform="translate(0 2263)" fill="#ed1067"/>
+    <text id="Getting_Apps_Done" data-name="Getting Apps Done" transform="translate(242 2556)" fill="#fff" font-size="88" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Getting Apps Done</tspan></text>
+    <text id="I_host_a_mostly_non-technical_podcast_for_software_developers_where_I_chat_with_Kel_Piffner_about_a_wide_variety_of_topics_ranging_from_tips_on_planning_software_projects_to_getting_that_elusive_first_software_job_" data-name="I host a mostly non-technical podcast for software developers where I chat with Kel Piffner about a wide variety of topics ranging from tips on planning software projects to getting that elusive first software job!" transform="translate(130 2669)" fill="#fff" font-size="60" font-family="OpenSans, Open Sans"><tspan x="0" y="64">I host a mostly non-technical podcast for software </tspan><tspan x="0" y="146">developers where I chat with Kel Piffner about a wide </tspan><tspan x="0" y="228">variety of topics ranging from tips on planning software </tspan><tspan x="0" y="310">projects to getting that elusive first software job!</tspan></text>
+    <g id="Getting_Apps_Done-2" data-name="Getting Apps Done" transform="translate(393.269 3269.519)">
+      <g id="Group_21" data-name="Group 21" transform="translate(-252.615 -794.161)" clip-path="url(#clip-path)">
+        <g id="Group_20" data-name="Group 20" transform="translate(-74.87 -21.016)" clip-path="url(#clip-path-2)">
+          <path id="Path_19" data-name="Path 19" d="M68-713h44.221v75.453H68Z" transform="translate(6.14 733.286)" fill="#fff"/>
+        </g>
       </g>
-    </g>
-    <g id="Group_23" data-name="Group 23" transform="translate(-263.269 -782.024)" clip-path="url(#clip-path-3)">
-      <g id="Group_22" data-name="Group 22" transform="translate(-19.705 -18.586)" clip-path="url(#clip-path-2)">
-        <path id="Path_22" data-name="Path 22" d="M-5-442H15.108v20.019H-5Z" transform="translate(24.481 460.362)" fill="#ed1067"/>
+      <g id="Group_23" data-name="Group 23" transform="translate(-263.269 -754.61)" clip-path="url(#clip-path-3)">
+        <g id="Group_22" data-name="Group 22" transform="translate(-64.216 -60.567)" clip-path="url(#clip-path-2)">
+          <path id="Path_22" data-name="Path 22" d="M-5-442H60.529v65.237H-5Z" transform="translate(68.486 501.837)" fill="#fff"/>
+        </g>
       </g>
-    </g>
-    <g id="Group_25" data-name="Group 25" transform="translate(-262.015 -792.504)" clip-path="url(#clip-path-5)">
-      <g id="Group_24" data-name="Group 24" transform="translate(-20.959 -8.106)" clip-path="url(#clip-path-2)">
-        <path id="Path_25" data-name="Path 25" d="M23-676H45.527v15.719H23Z" transform="translate(-2.265 683.882)" fill="#fff"/>
+      <g id="Group_25" data-name="Group 25" transform="translate(-259.183 -788.761)" clip-path="url(#clip-path-5)">
+        <g id="Group_24" data-name="Group 24" transform="translate(-68.302 -26.416)" clip-path="url(#clip-path-2)">
+          <path id="Path_25" data-name="Path 25" d="M23-676H96.41v51.227H23Z" transform="translate(44.572 701.686)" fill="#ed1067"/>
+        </g>
       </g>
-    </g>
-    <g id="Group_29" data-name="Group 29" transform="translate(-262.015 -792.504)">
-      <g id="Group_26" data-name="Group 26" transform="translate(0 0)">
-        <path id="Path_28" data-name="Path 28" d="M8.062,15.272,22.079,2.918,19.468,0,8.062,9.756,2.611,3.966,0,6.519Z" fill="none" stroke="#ed1067" stroke-width="1"/>
+      <g id="Group_29" data-name="Group 29" transform="translate(-259.183 -788.761)">
+        <g id="Group_26" data-name="Group 26" transform="translate(0 0)">
+          <path id="Path_28" data-name="Path 28" d="M26.272,49.767,71.951,9.508,63.442,0,26.272,31.792,8.509,12.925,0,21.244Z" fill="none" stroke="#fff" stroke-width="4"/>
+        </g>
       </g>
     </g>
   </g>

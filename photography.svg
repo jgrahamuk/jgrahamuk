@@ -57,6 +57,10 @@
         <rect id="_81320940_513008562675486_794740471689068120_n" data-name="81320940_513008562675486_794740471689068120_n" width="177" height="177" transform="translate(342 7861)" fill="url(#pattern-8)"/>
       </g>
     </g>
-    <text id="I_think_it_s_really_important_to_have_hobbies_outside_your_day_job_The_one_I_enjoy_most_just_happens_to_be_photography._If_you_d_like_to_see_more_check_out_my_Instagram_" data-name="I think it’s really important to have hobbies outside your day job! The one I enjoy most just happens to be photography. If you’d like to see more, check out my Instagram!" transform="translate(346 7328)" fill="#134172" font-size="60" font-family="OpenSans, Open Sans"><tspan x="0" y="64">I think it’s really important to have hobbies outside your </tspan><tspan x="0" y="146">day job! The one I enjoy most just happens to be </tspan><tspan x="0" y="228">photography. If you’d like to see more, check out my </tspan><tspan x="0" y="310">Instagram!</tspan></text>
+    <text id="I_think_it_s_really_important_to_have_hobbies_outside_your_day_job_The_one_I_enjoy_most_just_happens_to_be_photography._If_you_d_like_to_see_more_check_out_my_Instagram_" data-name="I think it’s really important to have hobbies outside your day job! The one I enjoy most just happens to be photography. If you’d like to see more, check out my Instagram!" transform="translate(346 7328)" fill="#134172" font-size="60" font-family="OpenSans, Open Sans"><tspan x="0" y="64">I think it’s really important to have hobbies outside your </tspan><tspan x="0" y="146">day job! The one I enjoy most just happens to be </tspan><tspan x="0" y="228">photography. If you’d like to see more, check out my </tspan><tspan x="0" y="310" text-decoration="underline">Instagram</tspan><tspan y="310">!</tspan></text>
+    <g id="Arrow" transform="translate(-257.81 6908.92)">
+      <line id="Line_2" data-name="Line 2" x2="36.933" transform="translate(935.5 708.49)" fill="none" stroke="#e03561" stroke-width="6"/>
+      <path id="Path_5" data-name="Path 5" d="M1592.5,523.531l17.759,19.891-17.759,20.5" transform="translate(-638.533 165)" fill="none" stroke="#ed1067" stroke-width="6"/>
+    </g>
   </g>
 </svg>

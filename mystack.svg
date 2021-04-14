@@ -2,8 +2,8 @@
   <g id="mystack" transform="translate(0 -6172)">
     <rect id="Rectangle_25" data-name="Rectangle 25" width="1920" height="1851" transform="translate(0 6172)" fill="#134172"/>
     <text id="I_ve_been_doing_this_for_a_while_so_the_list_of_languages_tools_libraries_and_frameworks_I_ve_used_is_too_long_to_bore_anyone_with._This_is_a_selection_of_some_of_my_current_toolbelt._" data-name="I&apos;ve been doing this for a while, so the list of languages, tools, libraries and frameworks I&apos;ve used is too long to bore anyone with. This is a selection of some of my current toolbelt.
-" transform="translate(130 6538)" fill="#fff" font-size="60" font-family="OpenSans, Open Sans"><tspan x="0" y="64">I&apos;ve been doing this for a while, so the list of languages, </tspan><tspan x="0" y="146">tools, libraries and frameworks I&apos;ve used is too long to bore </tspan><tspan x="0" y="228">anyone with. This is a selection of some of my current </tspan><tspan x="0" y="310">toolbelt.</tspan><tspan x="0" y="392"></tspan></text>
-    <text id="My_Stack" data-name="My Stack" transform="translate(130 6456)" fill="#fff" font-size="88" font-family="OpenSans, Open Sans"><tspan x="0" y="0">My Stack</tspan></text>
+" transform="translate(130 6538)" fill="#fff" font-size="60" font-family="OpenSans, Open Sans, sans-serif"><tspan x="0" y="64">I&apos;ve been doing this for a while, so the list of languages, </tspan><tspan x="0" y="146">tools, libraries and frameworks I&apos;ve used is too long to bore </tspan><tspan x="0" y="228">anyone with. This is a selection of some of my current </tspan><tspan x="0" y="310">toolbelt.</tspan><tspan x="0" y="392"></tspan></text>
+    <text id="My_Stack" data-name="My Stack" transform="translate(130 6456)" fill="#fff" font-size="88" font-family="OpenSans, Open Sans, sans-serif"><tspan x="0" y="0">My Stack</tspan></text>
     <g id="TechStacks" transform="translate(66.433 5701.328)">
       <g id="Adobe_XD" data-name="Adobe XD" transform="translate(1117.445 1758.891)">
         <g id="AdobeXD" transform="translate(0 0)">
@@ -48,12 +48,12 @@
           <path id="Path_341" data-name="Path 341" d="M140.576,85.932c12.918-.831,26.747-.493,38.372,5.871,9,4.877,13.99,15.112,14.149,25.111a2.718,2.718,0,0,1-2.949,2c-3.748-.005-7.5.051-11.245-.025-1.59.061-2.514-1.4-2.714-2.81-1.077-4.784-3.686-9.522-8.189-11.83-6.912-3.461-14.927-3.287-22.465-3.215-5.5.292-11.42.769-16.082,4-3.579,2.451-4.666,7.4-3.389,11.384,1.2,2.861,4.507,3.785,7.21,4.636,15.568,4.072,32.065,3.666,47.335,9.025,6.322,2.184,12.507,6.431,14.671,13.05,2.831,8.872,1.59,19.476-4.722,26.6-5.119,5.861-12.574,9.051-20.01,10.784-9.892,2.206-20.157,2.262-30.2,1.282-9.446-1.077-19.276-3.559-26.568-9.995-6.236-5.414-9.281-13.85-8.979-21.993a2.519,2.519,0,0,1,2.759-2.221c3.774-.031,7.549-.041,11.323.005a2.645,2.645,0,0,1,2.7,2.616c.7,4.558,2.41,9.342,6.384,12.045,7.671,4.949,17.3,4.61,26.08,4.749,7.277-.323,15.446-.42,21.384-5.23,3.133-2.743,4.061-7.333,3.215-11.281-.917-3.334-4.4-4.887-7.4-5.9-15.368-4.861-32.049-3.1-47.269-8.595-6.179-2.184-12.154-6.312-14.527-12.66-3.312-8.984-1.795-20.1,5.179-26.978,6.8-6.845,16.615-9.482,25.947-10.425Z" transform="translate(-16.302 -13.396)" fill="#fff"/>
         </g>
       </g>
-      <text id="Typescript-3" data-name="Typescript" transform="translate(578.567 1671.672)" fill="#fff" font-size="43" font-family="OpenSans, Open Sans"><tspan x="-103.437" y="0">Typescript</tspan></text>
-      <text id="Angular-3" data-name="Angular" transform="translate(893.567 1671.672)" fill="#fff" font-size="43" font-family="OpenSans, Open Sans"><tspan x="-77.948" y="0">Angular</tspan></text>
-      <text id="C_DotNet" data-name="C#/DotNet" transform="translate(1227.567 1671.672)" fill="#fff" font-size="43" font-family="OpenSans, Open Sans"><tspan x="-107.458" y="0">C#/DotNet</tspan></text>
-      <text id="Adobe_XD-2" data-name="Adobe XD" transform="translate(1229.567 2092.672)" fill="#fff" font-size="43" font-family="OpenSans, Open Sans"><tspan x="-98.671" y="0">Adobe XD</tspan></text>
-      <text id="NodeJS-3" data-name="NodeJS" transform="translate(893.567 2092.672)" fill="#fff" font-size="43" font-family="OpenSans, Open Sans"><tspan x="-71.975" y="0">NodeJS</tspan></text>
-      <text id="React-3" data-name="React" transform="translate(578.567 2085.672)" fill="#fff" font-size="43" font-family="OpenSans, Open Sans"><tspan x="-55.136" y="0">React</tspan></text>
+      <text id="Typescript-3" data-name="Typescript" transform="translate(578.567 1671.672)" fill="#fff" font-size="43" font-family="OpenSans, Open Sans, sans-serif"><tspan x="-103.437" y="0">Typescript</tspan></text>
+      <text id="Angular-3" data-name="Angular" transform="translate(893.567 1671.672)" fill="#fff" font-size="43" font-family="OpenSans, Open Sans, sans-serif"><tspan x="-77.948" y="0">Angular</tspan></text>
+      <text id="C_DotNet" data-name="C#/DotNet" transform="translate(1227.567 1671.672)" fill="#fff" font-size="43" font-family="OpenSans, Open Sans, sans-serif"><tspan x="-107.458" y="0">C#/DotNet</tspan></text>
+      <text id="Adobe_XD-2" data-name="Adobe XD" transform="translate(1229.567 2092.672)" fill="#fff" font-size="43" font-family="OpenSans, Open Sans, sans-serif"><tspan x="-98.671" y="0">Adobe XD</tspan></text>
+      <text id="NodeJS-3" data-name="NodeJS" transform="translate(893.567 2092.672)" fill="#fff" font-size="43" font-family="OpenSans, Open Sans, sans-serif"><tspan x="-71.975" y="0">NodeJS</tspan></text>
+      <text id="React-3" data-name="React" transform="translate(578.567 2085.672)" fill="#fff" font-size="43" font-family="OpenSans, Open Sans, sans-serif"><tspan x="-55.136" y="0">React</tspan></text>
     </g>
   </g>
 </svg>

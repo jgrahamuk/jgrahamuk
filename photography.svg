@@ -30,7 +30,7 @@
   </defs>
   <g id="photography" transform="translate(-215.19 -6962)">
     <rect id="Rectangle_27" data-name="Rectangle 27" width="1920" height="1077" transform="translate(215.19 6962)" fill="#fff"/>
-    <text id="Photography-2" data-name="Photography" transform="translate(345.38 7215)" fill="#e03561" font-size="88" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Photography</tspan></text>
+    <text id="Photography-2" data-name="Photography" transform="translate(345.38 7215)" fill="#e03561" font-size="88" font-family="OpenSans, Open Sans, sans-serif"><tspan x="0" y="0">Photography</tspan></text>
     <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(350.19 7743)" clip-path="url(#clip-path)">
       <g transform="translate(-342 -7861)">
         <rect id="_126032555_133094124931999_2876666322285756076_n" data-name="126032555_133094124931999_2876666322285756076_n" width="177" height="177" transform="translate(342 7861)" fill="url(#pattern)"/>
@@ -57,6 +57,6 @@
         <rect id="_81320940_513008562675486_794740471689068120_n" data-name="81320940_513008562675486_794740471689068120_n" width="177" height="177" transform="translate(342 7861)" fill="url(#pattern-8)"/>
       </g>
     </g>
-    <text id="I_think_it_s_really_important_to_have_hobbies_outside_your_day_job_The_one_I_enjoy_most_just_happens_to_be_photography._If_you_d_like_to_see_more_check_out_my_Instagram_" data-name="I think it’s really important to have hobbies outside your day job! The one I enjoy most just happens to be photography. If you’d like to see more, check out my Instagram!" transform="translate(346 7328)" fill="#134172" font-size="60" font-family="OpenSans, Open Sans"><tspan x="0" y="64">I think it’s really important to have hobbies outside your </tspan><tspan x="0" y="146">day job! The one I enjoy most just happens to be </tspan><tspan x="0" y="228">photography. If you’d like to see more, check out my </tspan><tspan x="0" y="310">Instagram!</tspan></text>
+    <text id="I_think_it_s_really_important_to_have_hobbies_outside_your_day_job_The_one_I_enjoy_most_just_happens_to_be_photography._If_you_d_like_to_see_more_check_out_my_Instagram_" data-name="I think it’s really important to have hobbies outside your day job! The one I enjoy most just happens to be photography. If you’d like to see more, check out my Instagram!" transform="translate(346 7328)" fill="#134172" font-size="60" font-family="OpenSans, Open Sans, sans-serif"><tspan x="0" y="64">I think it’s really important to have hobbies outside your </tspan><tspan x="0" y="146">day job! The one I enjoy most just happens to be </tspan><tspan x="0" y="228">photography. If you’d like to see more, check out my </tspan><tspan x="0" y="310">Instagram!</tspan></text>
   </g>
 </svg>

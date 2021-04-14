@@ -5,7 +5,7 @@
       <line id="Line_2" data-name="Line 2" x2="36.933" transform="translate(935.5 708.49)" fill="none" stroke="#e03561" stroke-width="6"/>
       <path id="Path_5" data-name="Path 5" d="M1592.5,523.531l17.759,19.891-17.759,20.5" transform="translate(-638.533 165)" fill="none" stroke="#ed1067" stroke-width="6"/>
     </g>
-    <text id="Joshua_Graham" data-name="Joshua Graham" transform="translate(451 411)" fill="#ed1067" font-size="105" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Joshua Graham</tspan></text>
-    <text id="Howdy_I_deliver_software_and_help_other_devs_do_the_same_" data-name="Howdy! I deliver software and help other devs do the same!" transform="translate(451 443)" fill="#134172" font-size="88" font-family="OpenSans, Open Sans"><tspan x="0" y="94">Howdy! I deliver </tspan><tspan x="0" y="214">software and help other </tspan><tspan x="0" y="334">devs do the same!</tspan></text>
+    <text id="Joshua_Graham" data-name="Joshua Graham" transform="translate(451 411)" fill="#ed1067" font-size="105" font-family="OpenSans, Open Sans, sans-serif"><tspan x="0" y="0">Joshua Graham</tspan></text>
+    <text id="Howdy_I_deliver_software_and_help_other_devs_do_the_same_" data-name="Howdy! I deliver software and help other devs do the same!" transform="translate(451 443)" fill="#134172" font-size="88" font-family="OpenSans, Open Sans, sans-serif"><tspan x="0" y="94">Howdy! I deliver </tspan><tspan x="0" y="214">software and help other </tspan><tspan x="0" y="334">devs do the same!</tspan></text>
   </g>
 </svg>

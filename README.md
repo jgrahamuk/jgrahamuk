@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-<a href="https://gettingappsdone.com/">https://gettingappsdone.com</a>
+Want to know more? Check out my personal website <a href="https://joshuagraham.info/">https://joshuagraham.info</a>
 </p>
